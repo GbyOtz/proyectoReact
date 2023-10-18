@@ -1,7 +1,7 @@
 import "./Header.css"
 function Header(){
     return <header className="header">
-        <img src="/public/img/header.png" alt="ghost"/>
+        <img src="/img/header.png" alt="ghost"/>
     </header>
 }
 
