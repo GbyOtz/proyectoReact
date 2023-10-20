@@ -7,9 +7,11 @@
     color: white;
     margin: 32px 0px;
     cursor: pointer;
+    justify-content: center;
+    text-align: center;
 }
 
 .boton:hover{
     color: aqua;
-    
+
 }
